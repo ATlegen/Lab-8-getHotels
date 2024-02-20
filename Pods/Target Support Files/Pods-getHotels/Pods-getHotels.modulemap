@@ -1,0 +1,6 @@
+framework module Pods_getHotels {
+  umbrella header "Pods-getHotels-umbrella.h"
+
+  export *
+  module * { export * }
+}
